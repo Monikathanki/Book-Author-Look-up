@@ -11,16 +11,20 @@ In this first checkpoint, we&#39;ll go over the audience and requirements for th
 ##
 # **Screenshots**
 
-Home Screen Image
-![Image of Home Screen](https://ibb.co/SxHN1y6)
+**Home Screen Image**
+![book-finder image](https://user-images.githubusercontent.com/63766164/89110165-d19a6f80-d3fc-11ea-833a-3ce5223929dc.PNG)
 
-Book-Title Search screen image
 
-![](RackMultipart20200801-4-1yo8l5_html_47f64ee51cd9334f.png)
+**Book-Title Search screen image**
+![Title-image](https://user-images.githubusercontent.com/63766164/89110170-d95a1400-d3fc-11ea-83dd-2672c460460e.PNG)
 
-Author name search image
 
-![](RackMultipart20200801-4-1yo8l5_html_44f467906d59083e.png)
+
+
+**Author name search image**
+![author-image](https://user-images.githubusercontent.com/63766164/89110172-e119b880-d3fc-11ea-8d60-4107a28268aa.PNG)
+
+
 
 **Built With**
 
@@ -38,6 +42,5 @@ Author name search image
 **Authors**
 
 Monika Thanki - Front-End development/testing, styling
-
 
 
