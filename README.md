@@ -13,7 +13,7 @@ In this first checkpoint, we&#39;ll go over the audience and requirements for th
 
 Home Screen Image
 
-![Home Screen Image](https://ibb.co/dWkB8xp)
+![](book-finder.png)
 
 Book-Title Search screen image
 
