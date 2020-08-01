@@ -13,15 +13,15 @@ In this first checkpoint, we&#39;ll go over the audience and requirements for th
 
 Home Screen Image
 
-![](RackMultipart20200801-4-1g42ktf_html_b6965b10531d954.png)
+![](RackMultipart20200801-4-1yo8l5_html_96912fdb91b20e36.png)
 
 Book-Title Search screen image
 
-![](RackMultipart20200801-4-1g42ktf_html_bb307a2b4f5ed5ff.png)
+![](RackMultipart20200801-4-1yo8l5_html_47f64ee51cd9334f.png)
 
 Author name search image
 
-![](RackMultipart20200801-4-1g42ktf_html_fe1bc73109f79019.png)
+![](RackMultipart20200801-4-1yo8l5_html_44f467906d59083e.png)
 
 **Built With**
 
@@ -39,7 +39,6 @@ Author name search image
 **Authors**
 
 Monika Thanki - Front-End development/testing, styling
-
 
 
 
