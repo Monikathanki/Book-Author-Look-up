@@ -13,7 +13,7 @@ In this first checkpoint, we&#39;ll go over the audience and requirements for th
 
 Home Screen Image
 
-![](book-finder.png)
+![](RackMultipart20200801-4-1g42ktf_html_b6965b10531d954.png)
 
 Book-Title Search screen image
 
