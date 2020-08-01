@@ -10,16 +10,4 @@ This module guides you through designing and implementing an API hack capstone, 
 In this first checkpoint, we'll go over the audience and requirements for the API hack and take a look at some example projects. See live demo below.
 
 
-Screenshots
 
-Home Screen Image
-
-//ibb.co/dWkB8xp
-
-Book Title search screen picture 
-
-//ibb.co/SxHN1y6
-
-Author search screen picture
-
-//ibb.co/1YWgd7Y
