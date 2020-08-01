@@ -12,8 +12,7 @@ In this first checkpoint, we&#39;ll go over the audience and requirements for th
 # **Screenshots**
 
 Home Screen Image
-
-![](RackMultipart20200801-4-1yo8l5_html_96912fdb91b20e36.png)
+![Image of Home Screen](https://ibb.co/SxHN1y6)
 
 Book-Title Search screen image
 
