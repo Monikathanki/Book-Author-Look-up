@@ -40,7 +40,7 @@ In this first checkpoint, we&#39;ll go over the audience and requirements for th
 
 **Demo**
 
-- [Live Demo](https://monikathanki.github.io/Bookfinder/)
+- [Live Demo](hhttps://monikathanki.github.io/Book-Author-Look-up/)
 
 **Authors**
 
